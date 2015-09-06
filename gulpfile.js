@@ -118,12 +118,6 @@ gulp.task('fonts', function () {
     .pipe($.size({title: 'fonts'}));
 });
 
-gulp.task('2014', function () {
-  return gulp.src(['app/2014/**'])
-    .pipe(gulp.dest('dist/2014'))
-    .pipe($.size({title: '2014'}));
-});
-
 gulp.task('assets', function () {
   return gulp.src(['app/assets/**'])
     .pipe(gulp.dest('dist/assets'))
@@ -202,7 +196,7 @@ gulp.task('precache', function (callback) {
 gulp.task('gh-pages', function() {
   return gulp.src('./dist/**/*')
     .pipe(ghPages({
-      remoteUrl: 'https://github.com/GDG-Ukraine/devfest.gdg.org.ua'
+      remoteUrl: 'https://github.com/gdg-managua/devfest-2015'
     }));
 });
 
@@ -271,7 +265,7 @@ gulp.task('default', ['clean'], function (cb) {
     ['copy', 'styles'],
     'elements',
     ['jshint', 'images', 'fonts', 'html'],
-    'vulcanize', 'precache', '2014', 'assets', 'data', 'posts',
+    'vulcanize', 'precache', 'assets', 'data', 'posts',
     cb);
 });
 

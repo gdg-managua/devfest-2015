@@ -6,6 +6,7 @@ The complete set of contributors may be found at http://polymer.github.io/CONTRI
 Code distributed by Google as part of the polymer project is also
 subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
 */
+    /* jshint ignore:start */
 
 (function(document) {
     'use strict';
@@ -37,7 +38,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             drawerPanel.closeDrawer();
         }
     };
-    /* jshint ignore:start */
     app.findByPropertyValue = function(array, property, value) {
         for (var i = 0; i < array.length; i++) {
             if (array[i][property] == value) {
@@ -45,7 +45,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             }
         }
     };
-    /* jshint ignore:end */
 
 
     app.scrollToTop = function() {
@@ -105,3 +104,4 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     }
 
 })(document);
+    /* jshint ignore:end */
