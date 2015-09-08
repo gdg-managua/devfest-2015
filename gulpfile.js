@@ -196,7 +196,10 @@ gulp.task('precache', function (callback) {
 gulp.task('gh-pages', function() {
   return gulp.src('./dist/**/*')
     .pipe(ghPages({
-      remoteUrl: 'https://github.com/gdg-managua/devfest-2015'
+      remoteUrl: 'git@github.com:gdg-managua/devfest-2015.git',
+      push: true,
+      force: true,
+      branch: 'gh-pages',
     }));
 });
 

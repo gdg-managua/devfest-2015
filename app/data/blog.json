@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "GDG DevFest 2015 Announced",
+    "title": "GDG DevFest 2015",
     "titleUrl": "devfest-2015-announced",
     "posted": "Aug 17, 2015",
     "file": "2015-08-17-devfest-2015-announced.markdown",
-    "brief": "Ukrainian GDGs are proud to announce the fourth annual GDG DevFest 2015 - the largest Google related event in Ukraine. Like last year, the event will be held on 23-24 October in Lviv. So aside all your business at this time and book tickets to the cultural capital of Ukraine."
+    "brief": "Estamos orgullosos de anunciar la primera edición GDG DevFest 2015 - el mayor evento relacionado con Google. El evento se llevará a cabo el dia 17 de octubre en Managua. Así que, deja todo lo que estas haciendo y reserva tus entradas para el evento."
   },
   {
     "id": 2,
@@ -13,6 +13,6 @@
     "titleUrl": "call-for-speakers",
     "posted": "Aug 17, 2015",
     "file": "2015-08-17-call-for-papers.markdown",
-    "brief": "We're very excited - not just because of the inordinate amount of caffeine based products consumed - but also because our team are putting together the final missing parts to the biggest Google related event in Ukraine - <a href='http://devfest.gdg.org.ua'>GDG DevFest 2015</a>."
+    "brief": "Estamos muy emocionados por anunciar la apertura del formulario para presentadores, asi que no pierdas tiempo y envianos tu propuesta, estamos encantado de escucharte."
   }
 ]
