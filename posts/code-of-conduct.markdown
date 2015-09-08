@@ -1,13 +1,25 @@
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__"Don't be a jerk" Esta politica es una version acortada, Puedes encontrar aqui [la version completa](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
 
 <br/>
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+GDG Managua se enorgullece de ser una comunidad abierta, respetuosa e inclusiva. Eso significa que el comportamiento desigual no está permitido en las reuniones GDG. Porque sabemos que no es obvio para todo el mundo, aquí es un recordatorio de las cosas que no nos permiten: 
+  *  chistes o comentarios ofensivos sobre:
+     * Sexo
+     * Sexualidad
+     * Raza
+     * Religión
+     * Nacionalidad
+     * Tamaño corporal
+     * Politica
+  * Mostrar videos ilicitos en público.
+  * Insitar a la violencia.
+  * Tocar a las personas sin invitación o continuamente después de que te han pedido que se detuviera. 
+  * Comportamiento desigual continua puede resultar en consiguiendo expelida de la reunión o GDG capítulo.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Si alguien te está molestando, informa a los GDG organizadores de inmediato para que se hagan cargo de el/ella. Queremos mantener una actitud cordial y respetuosa y que el GDG DevFest sea un evento genial para todos los asistentes.
 
 <br/>
 
-#### Contacts:
+#### Contacto:
 
-- Oleh Zasadnyy, +38 093 48 66 460, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
+- Oscar Cortez , [oscar@gdgmanagua.org](mailto:oscar@gdgmanagua.org)
