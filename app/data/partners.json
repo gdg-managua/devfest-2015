@@ -1,10 +1,31 @@
 [
-    {
-        "title": "General sponsor",
-        "logos": [{
-            "name": "Google",
-            "url": "https://www.google.com.ua/intl/en/about/",
-            "logoUrl": "../images/partners/google.svg"
-        }]
-    }
-]
+ {
+ "title": "SPONSORS & COLABORADORES",
+ "logos": [
+           {
+           "name": "Google",
+           "url": "https://www.google.com.ua/intl/en/about/",
+           "logoUrl": "../images/partners/google.svg"
+           },
+           {
+           "name": "CodeMinery",
+           "url": "http://www.codeminery.com",
+           "logoUrl": "../images/partners/CM.svg"
+           },
+           {
+           "name": "KronosCode",
+           "url": "http://kronoscode.com",
+           "logoUrl": "../images/partners/kronoscode.svg"
+           },
+           {
+           "name": "C.C.N.N",
+           "url": "http://www.ccnn.org.ni/",
+           "logoUrl": "../images/partners/ccnn.jpg"
+           },
+           {
+           "name": "Google Developers",
+           "url": "https://developers.google.com",
+           "logoUrl": "../images/partners/developers.svg"
+           }]
+ }
+ ]
